@@ -20,10 +20,21 @@
 <br>
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently studying **Computer Science**.
-- 🐍 My main focus is **Python**, specializing in building efficient solutions and automation.
-- 🚀 I'm constantly working on personal projects to improve my backend skills.
+- 🎓 I'm a **Computer Science Student** passionate about technology and problem-solving.
+- 🐍 Currently focusing on **Python**, building a solid foundation in Backend development.
+- 🚀 I have experience in **Full Stack** development with **Node.js**, **React**, and **HTML/CSS/JS**.
+- 📱 Skilled in **Mobile Development** with **React Native**.
+- 🎨 Experienced in **UI/UX Design** using **Figma** to create intuitive interfaces.
+- 🌎 I am actively **improving my English skills** for professional growth.
 - 💼 Open for my first professional opportunity in the tech industry.
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python (Focus), JavaScript, HTML5, CSS3.
+- **Frameworks/Libraries:** React, React Native.
+- **Design:** Figma (UI/UX).
+- **Tools:** Git, GitHub, VS Code.
 
 ---
 
@@ -38,13 +49,16 @@
 <br>
 
 ### 🛠️ Tech Stack
+<div align="center" style="display: inline_block">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React / React Native" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" />       
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" />
+</div>
 
 <br>
 
