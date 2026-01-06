@@ -1,9 +1,4 @@
 
-
-<div align="center">
-  <img align="center" height="150" src="https://imgur.com/1NbpuLc.png"/>
-</div>
-
 <div align="center">
   <b>Software Developer Student</b>
   <samp>
