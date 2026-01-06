@@ -14,7 +14,7 @@
 <br>
 
 <div width="100%" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=38&pause=1000&color=4C4C4C&center=true&width=435&lines=Welcome+to+my+profile;Computer+Science+Student;Focusing+on+Python+Development" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=38&pause=1000&color=4C4C4C&center=true&width=600&lines=Welcome+to+my+profile;Computer+Science+Student;Focusing+on+Python+Development" alt="Typing SVG">
 </div>
 
 <br>
