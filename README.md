@@ -1,3 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient4c4c4c&section=header&reversal=true&textBg=false">
+
+<div align="center">
+  <img align="center" height="150" src="[https://imgur.com/1NbpuLc.png](https://raw.githubusercontent.com/gist/adityasood89/2387da19759714881954848d7d9036c1/raw/d5543ef8169123c59424c803e05a76e50085a86d/code.gif)"/>
+</div>
 
 <div align="center">
   <b>Software Developer Student</b>
