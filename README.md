@@ -40,11 +40,11 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueFrancozo&layout=compact&theme=highcontrast" /> | <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueFrancozo&show_icons=true&theme=highcontrast" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueFrancozo&layout=compact&theme=highcontrast" /> | <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueFrancozo&show_icons=true&theme=highcontrast" /> | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroHenriqueFrancozo&theme=highcontrast&utcOffset=8) |
 | :-: | :-: |
 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroHenriqueFrancozo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueFrancozo&theme=highcontrast" /> |
-| :-: | :-: |
+| :-: | :-: | :-: |
 
 
 <br>
